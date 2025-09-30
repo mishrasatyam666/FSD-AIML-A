@@ -30,5 +30,3 @@ displayData();
 attmptTxt();
 logout();
 console.log('call other application')
-
-
